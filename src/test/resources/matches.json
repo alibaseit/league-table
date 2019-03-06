@@ -1,0 +1,72 @@
+ [{
+    "homeTeam": "Everton",
+    "awayTeam": "Liverpool",
+    "homeScore": 0,
+    "awayScore": 0
+  }, {
+    "homeTeam": "Fulham",
+    "awayTeam": "Chelsea",
+    "homeScore": 1,
+    "awayScore": 2
+  }, {
+    "homeTeam": "Watford",
+    "awayTeam": "Leicester",
+    "homeScore": 2,
+    "awayScore": 1
+  }, {
+    "homeTeam": "West Ham",
+    "awayTeam": "Newcastle",
+    "homeScore": 2,
+    "awayScore": 0
+  }, {
+    "homeTeam": "Bournemouth",
+    "awayTeam": "Manchester City",
+    "homeScore": 0,
+    "awayScore": 1
+  }, {
+    "homeTeam": "Brighton",
+    "awayTeam": "Huddersfield",
+    "homeScore": 1,
+    "awayScore": 0
+  }, {
+    "homeTeam": "Burnley",
+    "awayTeam": "Crystal Palace",
+    "homeScore": 1,
+    "awayScore": 3
+  }, {
+    "homeTeam": "Manchester Utd",
+    "awayTeam": "Southampton",
+    "homeScore": 3,
+    "awayScore": 2
+  }, {
+    "homeTeam": "Wolves",
+    "awayTeam": "Cardiff",
+    "homeScore": 2,
+    "awayScore": 0
+  }, {
+    "homeTeam": "Tottenham",
+    "awayTeam": "Arsenal",
+    "homeScore": 1,
+    "awayScore": 1
+  },
+
+   {
+     "homeTeam": "Chelsea",
+     "awayTeam": "Tottenham",
+     "homeScore": 2,
+     "awayScore": 0
+   },
+   {
+     "homeTeam": "Crystal Palace",
+     "awayTeam": "Man Utd",
+     "homeScore": 1,
+     "awayScore": 3
+   },
+
+   {
+     "homeTeam": "Man Utd",
+     "awayTeam": "Huddersfield",
+     "homeScore": 3,
+     "awayScore": 1
+   }
+ ]
