@@ -1,5 +1,4 @@
-# league-table
-Premier League Table
+# Premier League Table
 
 The application contains LeagueTable class with getTableEntries method which returns League Table.
 Table Columns are
